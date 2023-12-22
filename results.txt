@@ -1,0 +1,4 @@
+"Fragmentation"	"Mean.Distance"	"p.value"
+"Low"	0.5	6.20539841407778e-09
+"Medium"	1.5	6.20539841407778e-09
+"High"	2.5	6.20539841407778e-09

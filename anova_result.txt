@@ -1,0 +1,7 @@
+                      Df Sum Sq Mean Sq F value   Pr(>F)    
+Temperature            1   1096  1095.9   8.473 0.004482 ** 
+Treatment              1   2013  2013.2  15.564 0.000152 ***
+Temperature:Treatment  1     80    79.8   0.617 0.434233    
+Residuals             96  12418   129.4                     
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
